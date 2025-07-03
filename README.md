@@ -16,7 +16,7 @@
 
 - 🎓 BCA graduate passionate about AI/AR & immersive web platforms  
 - 🛠 Building **VisionVerse** – AI-powered image-to-video, skybox, and text-to-image generator  
-- 🇮🇳 Finalist at **Smart India Hackathon 2024** with a cultural AR showcase platform  
+- 🏆 Finalist at **Smart India Hackathon 2024** with a cultural AR showcase platform  
 - 🔗 Tech builder with focus on realtime apps, WebRTC, 3D, and creative tools  
 - 🤖 Currently learning WebGPU, deploying AI at scale. 
 
@@ -37,20 +37,6 @@
   <img src="https://img.shields.io/badge/Stable%20Diffusion-ff5c57?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini%20AI-3367d6?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [VisionVerse](https://github.com/kishorprajapati1212/AI_Generation)
-> 🧠 Generate videos from images, create AI-powered images & skyboxes, and save history. Includes Stripe for payments.
-
-### 🔹 [Indian Culture Connect (SIH 2024)](https://github.com/kishorprajapati1212/IndianHeritage)
-> 🗺️ Showcases Indian heritage with Leaflet.js, 3D models, cultural shorts, and WebRTC livestreaming.
-
-### 🔹 Other Projects:
-- 🛒 3D E-Commerce Viewer with interactive model placement  
-- 🤖 AI Image Combiner using ESRGAN + PyTorch  
 
 ---
 
