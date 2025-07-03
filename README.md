@@ -88,7 +88,7 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/kishor-prajapati-96372831a">
+  <a href="https://www.linkedin.com/in/kishor-prajapati-96372831a">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kishorprajapati1014@gmail.com">
