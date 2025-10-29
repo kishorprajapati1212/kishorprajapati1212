@@ -26,7 +26,7 @@
 
 <!-- 🔹 Main icons (from skillicons.dev) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,threejs,webrtc,cloudinary,materialui,figma,vercel,netlify,python,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,threejs,webrtc,cloudinary,materialui,figma,netlify,python,cpp,cs,php,mysql" />
 </p>
 
 <!-- 🔹 Extra tools using custom badges -->
